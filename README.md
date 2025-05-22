@@ -21,6 +21,13 @@ I’m a passionate mobile developer with over **12 years of experience**, specia
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
+| Frontend      | Flutter, Flutter Web, Android (Kotlin/Java), Swift/Obj-C |
+|---------------|-----------------------------------------------------------|
+| Backend       | Firebase, Supabase, PHP, WordPress APIs                   |
+| DevOps/Cloud  | AWS (CloudFront, Route53), Firebase Hosting, GitHub Actions |
+| Tools         | FFmpeg, BLE, TTS, MDM (Honeywell), Stripe, Razorpay      |
+| Architecture  | Clean Architecture, MVVM, Bloc, Riverpod                  |
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mayur.sakhiya.9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayursakhiya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2050000) 
 
@@ -28,7 +35,6 @@ I’m a passionate mobile developer with over **12 years of experience**, specia
 ![](https://github-readme-stats.vercel.app/api?username=mayursakhiya&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mayursakhiya&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mayursakhiya&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Mayur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayursakhiya&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mayursakhiya&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
@@ -38,4 +44,5 @@ I’m a passionate mobile developer with over **12 years of experience**, specia
 
 ## 📬 Get in Touch
 Feel free to reach out if you’re looking to build a scalable mobile/web app, integrate complex devices, or want to modernize your existing application.
+
 **📧 Email:** mayursakhiya1@gmail.com 
